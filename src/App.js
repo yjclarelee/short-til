@@ -1,10 +1,9 @@
-import './App.css';
+import UserMain from './pages/UserMain';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <UserMain />
     </div>
   );
 }
